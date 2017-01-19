@@ -20,7 +20,7 @@
                 <a href="http://flashdev.naver.com/FlashUILab/Project/JuniorNaver/mobileapp/test/NHN_InHouse_Distribution_Provisioning_Profile.mobileprovision" data-role="button" data-icon="star" data-theme="b" rel="external">인증서 설치</a>
 				<a href="http://flashdev.naver.com/FlashUILab/Project/JuniorNaver/mobileapp/test/JrAndroidTest.apk" data-role="button" data-icon="star" data-theme="c" rel="external">쥬니버용 다른 테스트 앱 다운로드 (for Android)</a>
 				<a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/twipixel/deploy/master/naver/jr/com.nhncorp.jr.test.plist" data-role="button" data-icon="star" data-theme="c" rel="external">쥬니버용 다른 테스트 앱 다운로드 (for iOS)</a>
-				<a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/twipixel/deploy/master/naver/jr/com.nhncorp.jr.beta.plist" data-role="button" data-icon="star" data-theme="b" rel="external">iOS 디버그용 다운로드</a>
+				<a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/superjaewon/test2.github.com/master/manifest.plist" data-role="button" data-icon="star" data-theme="b" rel="external">iOS 디버그용 다운로드@@@</a>
 			</div>
 		</div>
 	</body>
