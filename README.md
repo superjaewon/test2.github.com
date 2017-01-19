@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>쥬니버 모바일 배포</title>
+		<title>쥬니버 모바일 배포@@@@@@</title>
 		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.css" />
 		<script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
 		<script src="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js"></script>
@@ -11,7 +11,7 @@
 	<body>
 		<div data-role="page" id="ios" data-add-back-btn="true">
 			<div data-role="header">
-				<h1>쥬니버 모바일 배포</h1>
+				<h1>쥬니버 모바일 배포@@@</h1>
 			</div>
 			<div data-role="content">
                 <a href="http://flashdev.naver.com/FlashUILab/Project/JuniorNaver/mobileapp/test/JuniverAndroid.apk" data-role="button" data-icon="star" data-theme="b" rel="external">Android 다운로드</a>
